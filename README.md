@@ -1,0 +1,1 @@
+This is a quick project to show how to export from processing using gradle as a build tool.
